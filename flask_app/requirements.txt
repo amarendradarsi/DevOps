@@ -1,0 +1,4 @@
+flask
+pymongo
+dnspython
+echo "python-dotenv" >> requirements.txt
